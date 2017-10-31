@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pass-by-value.iml" filepath="$PROJECT_DIR$/.idea/modules/pass-by-value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pass-by-value_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pass-by-value_main.iml" group="pass-by-value" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pass-by-value_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pass-by-value_test.iml" group="pass-by-value" />
+    </modules>
+  </component>
+</project>
